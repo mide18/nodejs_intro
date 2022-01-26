@@ -2,7 +2,7 @@
   "name": "nodejs_tutorial",
   "version": "1.0.0",
   "description": "",
-  "main": "10_fs_sync.js",
+  "main": "1_intro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
